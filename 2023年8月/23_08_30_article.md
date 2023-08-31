@@ -185,7 +185,7 @@ put on a piece of clothing quickly and carelessly
 
 ## 17 Ludwig Wittgenstein/奥地利哲学家：路德维希·维特根斯坦
 
-Like everything metaphysical the harmoney between thought and reality is to be found in the grammar of the language.
+Like everything metaphysical the harmony between thought and reality is to be found in the grammar of the language.
 
 如同一切形而上之事，思想与现实之间的和谐，在于语言如何运用。
 
