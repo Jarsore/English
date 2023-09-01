@@ -217,7 +217,7 @@ This restaurant features the most famous chefs in France.（=have the most famou
 
 两个关于”票房达到多少”的表达：
 
-rake in/耙了多少钱进来（方言：往嘎地zao，第四声转第一声）
+rake in/耙了多少钱进来（方言：往嘎地zao，入声）
 
 collect
 
