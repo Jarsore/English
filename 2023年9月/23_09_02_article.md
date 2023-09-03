@@ -57,12 +57,13 @@ The gaslighting was pervasive.
 
 “It was a word looked up frequently every single day of the year,” he said.
 
+## 5 look up/（在词典、参考书中或通过电脑）查阅、查检
 
 # Para V
 
 Merriam-Webster’s top definition for gaslighting is the psychological manipulation of a person, usually over an extended period of time, that “causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one’s emotional or mental stability, and a dependency on the perpetrator”.
 
-## 5 extended/长的、长期的
+## 6 extended/长的、长期的
 
 注释：
 
@@ -74,9 +75,9 @@ If you are going abroad for an extended period of time , you should consider ren
 
 如果你出国较长一段时间，你应该考虑把房子租出去。
 
-## 6 question the validity of their own thoughts/质疑自己想法的逻辑性
+## 7 question the validity of their own thoughts/质疑自己想法的逻辑性
 
-## 7 perception/即对事物的认识和理解
+## 8 perception/即对事物的认识和理解
 
 注释：
 
@@ -92,7 +93,7 @@ There is a general public perception that standards in schools are falling.
 
     There is a general public perception that...
 
-## 8 煤气灯效应的由来
+## 9 煤气灯效应的由来
 
 The word was brought to life more than 80 years ago with Gas Light, a 1938 play by Patrick Hamilton.
 
@@ -113,7 +114,7 @@ bring sth to life/赋予...生命
 
 Gaslighting is a heinous tool frequently used by abusers in relationships – and by politicians and other newsmakers. It can happen between romantic partners, within a broader family unit and among friends. It can be a corporate tactic, or a way to mislead the public. There’s also “medical gaslighting”, when a healthcare professional dismisses a patient’s symptoms or illness as “all in your head”.
 
-## 9 heinous/极其恶毒的；道德败坏的
+## 10 heinous/极其恶毒的；道德败坏的
 
 # Para VII
 
@@ -138,7 +139,7 @@ It birthed two film adaptations in the 1940s. One, George Cukor’s Gaslight in 
     这个故事随后以两部电影的形式被搬到荧屏上（被改编为两部电影），其中一部是1940年英国电影，名叫《煤气灯》，另一部是1944年美国电影。
 
 
-## 10 whirlwind/一种非常忙乱的状态
+## 11 whirlwind/一种非常忙乱的状态
 
     注释：
 
@@ -150,7 +151,7 @@ It birthed two film adaptations in the 1940s. One, George Cukor’s Gaslight in 
 
     为了从分手中恢复过来，我马不停蹄地投身于一系列的活动。
 
-## 11 衍生词：
+## 12 衍生词：
 
 gaslighter/煤气灯人
 
@@ -168,7 +169,7 @@ The term gaslighting was later used by mental health practitioners to clinically
 
 后来，心理医生使用“煤气灯”一词，来描述虐待关系中的一种长期控制形式。
 
-## 12 practitioner/医学或法律界的从业人员
+## 13 practitioner/医学或法律界的从业人员
 
 词组：
 
@@ -183,6 +184,10 @@ extended <=> prolonged
 # Para X
 
 “There is this implication of an intentional deception,” Sokolowski said. “And once one is aware of that deception, it’s not just a straightforward lie, as in, you know, I didn’t eat the cookies in the cookie jar. It’s something that has a little bit more devious quality to it. It has possibly an idea of strategy or a long-term plan.”
+
+”这种有意的骗局会导致这样的结果：一旦一个人意识到欺骗，它不仅仅是一个直接的谎言??
+
+## 14 implication/可能的影响；暗指；牵连，牵涉；
 
 # Para XI
 
